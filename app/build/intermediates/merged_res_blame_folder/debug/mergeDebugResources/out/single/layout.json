@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.unsoed.responsi1mobileh1d023100.app-mergeDebugResources-38:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.unsoed.responsi1mobileh1d023100.app-main-41:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.unsoed.responsi1mobileh1d023100.app-mergeDebugResources-38:/layout/fragment_player_detail.xml",
+        "source": "com.unsoed.responsi1mobileh1d023100.app-main-41:/layout/fragment_player_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.unsoed.responsi1mobileh1d023100.app-mergeDebugResources-38:\\layout\\activity_coach.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.unsoed.responsi1mobileh1d023100.app-main-41:\\layout\\activity_coach.xml"
+    },
+    {
+        "merged": "com.unsoed.responsi1mobileh1d023100.app-mergeDebugResources-38:/layout/activity_history.xml",
+        "source": "com.unsoed.responsi1mobileh1d023100.app-main-41:/layout/activity_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.unsoed.responsi1mobileh1d023100.app-mergeDebugResources-38:\\layout\\activity_history.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.unsoed.responsi1mobileh1d023100.app-main-41:\\layout\\activity_history.xml"
+    },
+    {
+        "merged": "com.unsoed.responsi1mobileh1d023100.app-mergeDebugResources-38:/layout/item_player.xml",
+        "source": "com.unsoed.responsi1mobileh1d023100.app-main-41:/layout/item_player.xml"
+    },
+    {
+        "merged": "com.unsoed.responsi1mobileh1d023100.app-mergeDebugResources-38:/layout/activity_team_squad.xml",
+        "source": "com.unsoed.responsi1mobileh1d023100.app-main-41:/layout/activity_team_squad.xml"
+    }
+]
