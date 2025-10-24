@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="club_history">Club History</string>
+    <string name="desc_coach_photo">Foto pelatih kepala</string>
+    <string name="desc_icon_coach">Ikon pelatih</string>
+    <string name="desc_icon_history">Ikon sejarah klub</string>
+    <string name="desc_icon_team">Ikon tim</string>
+    <string name="desc_logo_metz">Logo resmi FC Metz</string>
+    <string name="desc_metz">Football Club de Metz, commonly known as FC Metz, is a French professional football club based in Metz, Lorraine. Founded in 1932, the club plays its home matches at Stade Saint-Symphorien. Metz will compete in Ligue 1 for the 2024–25 season after earning promotion from Ligue 2.</string>
+    <string name="desc_stadium">Background stadion FC Metz</string>
+    <string name="head_coach">Head Coach</string>
+    <string name="team_squad">Team Squad</string>
+    <style name="Base.Theme.Responsi1MobileH1D023100" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Responsi1MobileH1D023100" parent="Base.Theme.Responsi1MobileH1D023100"/>
+</resources>

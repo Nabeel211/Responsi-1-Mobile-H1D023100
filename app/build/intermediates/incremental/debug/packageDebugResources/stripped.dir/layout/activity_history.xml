@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    android:padding="16dp">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/imgStadium"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/stadium_metz" />
+
+        <TextView
+            android:id="@+id/txtTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="FC Metz History"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            android:layout_marginTop="12dp"
+            android:layout_marginBottom="8dp"
+            android:textColor="#000000" />
+
+        <TextView
+            android:id="@+id/txtHistory"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#333333"
+            android:textSize="16sp"
+            android:lineSpacingExtra="4dp"
+            android:text="Football Club de Metz, commonly known as FC Metz, was founded in 1932 through the merger of two local teams — CA Messin and FC Metis. Located in the heart of Lorraine, France, the club quickly became a symbol of pride for the people of Metz, representing resilience and passion through every era of its history.
+
+The early years of FC Metz were defined by ambition and the determination to establish themselves among the French elite. Before World War II, the club competed primarily in regional competitions, but by the late 1930s, Metz had already earned recognition as a competitive side in the national leagues. Unfortunately, like many European clubs, FC Metz faced a period of interruption during the war years, as the city of Metz was annexed by Germany and football activities were suspended.
+
+After the war, FC Metz re-emerged with renewed energy. The club returned to Ligue 1 and began to solidify its presence as a mainstay of French football. Known for their strong youth academy and ability to nurture local talent, Metz became a breeding ground for future stars. Over the decades, players such as Robert Pires, Louis Saha, Rigobert Song, and Emmanuel Adebayor began their journeys wearing the garnet and blue colors of Les Grenats.
+
+In the 1980s and 1990s, FC Metz enjoyed some of the most glorious moments in its history. The team won the Coupe de France twice — first in 1984 and again in 1988 — victories that marked the club’s arrival on the national stage. The 1990s brought European adventure, including memorable victories against powerful sides in UEFA competitions. The Stade Saint-Symphorien became a fortress where local pride met international ambition.
+
+Despite its triumphs, FC Metz’s history is also one of perseverance. The club has faced multiple relegations and promotions between Ligue 1 and Ligue 2, yet has always managed to bounce back with determination. This resilience has become part of Metz’s identity — the spirit of a team that refuses to give up, no matter the challenge.
+
+The city of Metz itself, with its deep cultural roots and borderland history, reflects the club’s character: proud, hardworking, and unyielding. The supporters, known as the ‘Grenats Army’, fill the stadium with passion and color, their chants echoing across the Moselle River. The mascot, a dragon symbolizing the legendary Graoully of Metz, embodies strength and fearlessness — traits that mirror the team’s fighting spirit.
+
+In the modern era, FC Metz continues to balance tradition with ambition. The club invests heavily in youth development through its highly respected academy, which remains one of the best in France. The management’s focus on nurturing young talent has allowed Metz to compete with larger clubs despite a smaller budget. This philosophy has earned the team respect across Europe as a model of sustainable football.
+
+Recent seasons have seen Metz oscillate between promotion and survival in Ligue 1, but the club’s spirit remains unbroken. Under the red and blue flag, the fans stand firm in their belief that FC Metz’s best days are yet to come. Every match at Stade Saint-Symphorien is not just a game — it is a celebration of history, identity, and unity.
+
+As the sun sets over the Moselle River and the floodlights shine on the pitch, one truth remains constant: FC Metz is more than a football club. It is a story of endurance, community, and the unyielding love of a city for its team — a story that continues to be written with every kick of the ball, every victory, and every challenge overcome.
+
+As long as the bells of Cologne Cathedral ring, and Hennes the goat stands proudly on the sidelines, the story of 1. FC Köln will continue to inspire fans — a story written not only in trophies, but in the hearts of all who love the club.
+" />
+    </LinearLayout>
+</ScrollView>
